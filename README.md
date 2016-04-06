@@ -2,4 +2,4 @@
 
 ## github pages
 
-http://ngjapan.org/angular.jp/
+http://ng-japan.github.io/angular.jp/
